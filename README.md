@@ -1,4 +1,4 @@
-## **## Readme.md: Desvendando o Mundo das Raças Caninas Gigantes**
+**## Readme.md: Desvendando o Mundo das Raças Caninas Gigantes**
 
 ** Uma jornada pelos gigantes gentis do mundo canino!**
 
