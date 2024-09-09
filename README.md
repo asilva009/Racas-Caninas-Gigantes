@@ -25,31 +25,4 @@ Digite o nome da raça que te interessa e pronto! A aplicação irá te apresent
 * **CSS:** Estilizando a página, deixando-a com uma aparência mais agradável e profissional.
 * **JavaScript:** A parte mais divertida! O JavaScript é responsável por toda a interação com o usuário, como a pesquisa e a exibição dos resultados.
 
-### **Como contribuir?**
-
-Quer ajudar a melhorar essa aplicação? Fique à vontade para contribuir! Você pode:
-
-* **Corrigir bugs:** Se encontrar algum erro, abra uma issue no GitHub.
-* **Adicionar novas raças:** Se você conhece alguma raça que não está na lista, faça um pull request com as informações.
-* **Melhorar a interface:** Sugira novas funcionalidades ou melhorias na interface do usuário.
-
-**Vamos juntos criar uma comunidade apaixonada por cães gigantes!**
-
-** Comece a explorar agora mesmo!**
-
-**#racascaninasgigantes #dogs #coding**
-
-**[Insira aqui o link para o repositório no GitHub]**
-
-**[Insira aqui um GIF animado de um cachorro gigante brincando]**
-
-**Observações:**
-
-* **Personalize:** Adapte o README com a sua personalidade e o estilo do seu projeto.
-* **Imagens:** Adicione imagens para deixar o README mais atrativo.
-* **GIFs:** GIFs animados podem tornar o README mais divertido e engajador.
-* **Emojis:** Use emojis para destacar informações importantes e tornar o texto mais leve.
-* **Seção de agradecimentos:** Agradeça a quem contribuiu para o projeto.
-
-**Com esse README, você terá um guia completo e informativo para sua aplicação, além de atrair novos colaboradores para o seu projeto.**
 
