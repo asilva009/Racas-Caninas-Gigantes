@@ -16,7 +16,7 @@ Digite o nome da raça que te interessa e pronto! A aplicação irá te apresent
 ### **Como funciona?**
 
 1. **Digite a raça:** Na barra de pesquisa, digite o nome da raça que você deseja buscar.
-   1.1 - As raças disponíveis para consulta são:
+   As raças disponíveis para consulta são:
    
          Mastiff
          São Bernardo
