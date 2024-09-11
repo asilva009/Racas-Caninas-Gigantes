@@ -16,8 +16,17 @@ Digite o nome da raça que te interessa e pronto! A aplicação irá te apresent
 ### **Como funciona?**
 
 1. **Digite a raça:** Na barra de pesquisa, digite o nome da raça que você deseja buscar.
-2. **Clique em "Pesquisar":** A aplicação irá procurar pela raça em nosso banco de dados.
-3. **Explore os resultados:** Os resultados da pesquisa serão exibidos abaixo, com todas as informações relevantes sobre a raça.
+   1.1 - As raças disponíveis para consulta são:
+   
+         Mastiff
+         São Bernardo
+         Dogue Alemão
+         Terra Nova
+         Dogue de Bordeaux
+         Fila Brasileiro
+   
+3. **Clique em "Pesquisar":** A aplicação irá procurar pela raça em nosso banco de dados.
+4. **Explore os resultados:** Os resultados da pesquisa serão exibidos abaixo, com todas as informações relevantes sobre a raça.
 
 ### **Tecnologias utilizadas:**
 
